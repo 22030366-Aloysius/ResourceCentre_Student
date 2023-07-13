@@ -274,5 +274,5 @@ public class ResourceCentreTest {
 		chromebookList = null;
 
 	}
-
+	// completed
 }
